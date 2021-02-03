@@ -5,5 +5,5 @@
         {"path": "main.py"}, 
         {"path":"message.txt"}
     ],
-    "installScript" : "install.sh"
+    "installScript" : "./install.sh"
 }
