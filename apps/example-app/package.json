@@ -6,5 +6,5 @@
         {"path":"message.txt"},
         {"path":"install.sh"}
     ],
-    "installScript" : "./install.sh"
+    "installScript" : "install.sh"
 }
