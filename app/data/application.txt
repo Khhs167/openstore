@@ -1,2 +1,0 @@
-OpenStore
-Verison: 0.1

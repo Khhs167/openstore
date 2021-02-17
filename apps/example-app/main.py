@@ -1,1 +1,0 @@
-print(open("message.txt", "r").read())
