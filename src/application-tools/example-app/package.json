@@ -1,0 +1,9 @@
+{
+    "displayName" : "Example Package", 
+    "deps" : 
+    [
+        {"path": "main.py"}, 
+        {"path":"message.txt"}
+    ],
+    "installScript" : "install.sh"
+}
