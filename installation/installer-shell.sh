@@ -4,4 +4,8 @@ rm installation -r
 rm .git -r
 rm .gitignore
 rm .vscode -r
-mv  -v ~/src/* ~/
+#sudo rm -rd src/apps
+#sudo rm -rd src/application-tools
+#mv  -v src/* /
+mkdir apps
+touch apps/installed.lst
